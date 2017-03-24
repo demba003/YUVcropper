@@ -48,7 +48,7 @@ int main()
 	}
 	
 
-	cout << "Max lightness: " << max << " w point:\n";
+	cout << "Max brightness: " << max << " in point:\n";
 	cout << "x: " << pos.x << "\n";
 	cout << "y: " << pos.y << "\n";
 	cout << "Average: " << sum / (width*height) << "\n";
